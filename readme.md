@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full-stack developer open to learning any languages and stacks</h3>
 
 
-- 🔭 I’m currently working on [SupportHub](https://github.com/philmak999/SupportHub)
+- 🔭 I build projects with React (JavaScript/TypeScript, JSX, CSS) and Node.js/Express
 
-- 🌱 I’m currently learning **C# and TypeScript**
+- 🌱 I’m currently working on [SupportHub](https://github.com/philmak999/SupportHub), learning **C# and TypeScript** for this project
 
 - 👨‍💻 All of my projects are available at [https://github.com/philmak999](https://github.com/philmak999)
 
