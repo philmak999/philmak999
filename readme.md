@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer open to learning any languages and stacks</h3>
 
 
-- 🔭 I build projects with React (JavaScript/TypeScript, JSX, CSS) and Node.js/Express
+- 🔭 I build projects with **React (JavaScript/TypeScript, JSX, CSS) and Node.js/Express**
 
 - 🌱 I’m currently working on [SupportHub](https://github.com/philmak999/SupportHub), learning **C# and TypeScript** for this project
 
