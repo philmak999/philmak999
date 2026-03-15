@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/106WERemTJwn4OAyaDgdmLNHLx4_xN8NPdYmvzQYE1r8/edit?usp=sharing](https://docs.google.com/document/d/106WERemTJwn4OAyaDgdmLNHLx4_xN8NPdYmvzQYE1r8/edit?usp=sharing)
 
-- ⚡ Fun fact **I have have a dog named Kirby and I enjoy playing golf and rock climbing!**
+- ⚡ Fun fact: **I have have a dog named Kirby and I enjoy playing golf and rock climbing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
