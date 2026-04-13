@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
-<h3 align="center">A passionate full-stack developer open to learning any languages and stacks</h3>
+<h3 align="center">A passionate full-stack developer currently engaged in projects utilizing AI-driven workflows and solutions</h3>
 
 
 - 🔭 I build projects with **React (JavaScript/TypeScript, JSX, CSS) and Node.js/Express**
 
-- 🌱 I’m currently working on [SupportHub](https://github.com/philmak999/SupportHub), learning **C# and TypeScript** for this project
-
-- 👨‍💻 All of my projects are available at [https://github.com/philmak999](https://github.com/philmak999)
+- 🌱 I’m currently working on [Dispatcher]([https://github.com/philmak999/Dispatcher]), learning prompt engineering, agentic AI and graphQL workflow optimization. 
 
 - 🌐 Portfolio **https://portfolio-two-inky-11.vercel.app/**
 
