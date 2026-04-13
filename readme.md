@@ -4,7 +4,7 @@
 
 - 🔭 I build projects with **React (JavaScript/TypeScript, JSX, CSS) and Node.js/Express**
 
-- 🌱 I’m currently working on [[Dispatcher](https://philmak999.github.io/Dispatcher/)], learning prompt engineering, agentic AI and graphQL workflow optimization. 
+- 🌱 I’m currently working on [Dispatcher](https://philmak999.github.io/Dispatcher/), learning prompt engineering, agentic AI and graphQL workflow optimization. 
 
 - 🌐 Portfolio **https://portfolio-two-inky-11.vercel.app/**
 
