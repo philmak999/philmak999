@@ -4,7 +4,7 @@
 
 - 🔭 I build projects with **React (JavaScript/TypeScript, JSX, CSS) and Node.js/Express**
 
-- 🌱 I’m currently working on [AgriSafe Intelligence](philmak999.github.io/AgriSafe-Intelligence) and [Dispatcher](https://philmak999.github.io/Dispatcher/), learning prompt engineering, agentic AI and optimizing automated looping. 
+- 🌱 I’m currently working on [AgriSafe Intelligence](https://philmak999.github.io/AgriSafe-Intelligence) and [Dispatcher](https://philmak999.github.io/Dispatcher/), learning prompt engineering, agentic AI and optimizing automated looping. 
 
 - 🌐 Portfolio **https://portfolio-two-inky-11.vercel.app/**
 
